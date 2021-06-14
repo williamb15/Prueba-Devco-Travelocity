@@ -1,6 +1,6 @@
 Feature: Book flight on the travelocity website
   As a user of the travelocity website
-  I need to book flight
+  I need to book a flight
   for my next trip
 
   Background:

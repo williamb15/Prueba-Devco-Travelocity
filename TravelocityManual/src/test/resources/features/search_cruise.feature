@@ -14,6 +14,6 @@ Feature: Search cruise trip in the travelocity website
   @manual-result:passed
   @SearchSuccessfulCruise
   Scenario: Search cruise for 2 adults and 2 children
-    Given The user is on the travelocity website and enters the search parameters for cruice
+    Given The user is on the travelocity website and enters the search parameters for the cruise
     When he specifies the details of his trip with 2 adults and 2 childs
     Then he will be able to see the cruise summary and the Booking button
